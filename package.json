@@ -1,0 +1,20 @@
+{
+  "name": "3d_test",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "three": "^0.134.0",
+    "troisjs": "^0.3.4",
+    "vue": "^3.2.47"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.1.0",
+    "vite": "^4.3.2"
+  }
+}
